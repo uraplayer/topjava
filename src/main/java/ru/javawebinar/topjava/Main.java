@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.format("Hello Topjava Enterprise!");
         System.out.println();
-        System.out.println("Fuck fuck fuck");
+        System.out.println("Fuck fuck fuck fuck");
 
     }
 }
